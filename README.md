@@ -4,7 +4,7 @@
 ##### Comece por aqui:
 
 🔭 &#160; Atualmente trabalho como <strong>Front-End</strong>. <br>
-🌱 &#160; Estou estudando mais sobre React native e desenvolvimento Movél. <br>
+🌱 &#160; Estou estudando mais sobre React native e desenvolvimento Móvel. <br>
 🎓 &#160; Graduando em Analise e desenvolvimento de Sistemas. <br>
 📨 &#160; <strong>Conecte-se comigo:</strong> mateus.rossinisilva@gmail.com <br>
 😄 &#160; Pronomes: ele / dele. <br>
