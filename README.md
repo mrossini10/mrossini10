@@ -1,9 +1,9 @@
 <h1 align="center">OLá! 👋, Sou o Mateus Rossini</h1>
-<h3 align="center">Desenvolvedor Front-End Junior</h3>
+<h3 align="center">Desenvolvedor FullStack Junior</h3>
 
 ##### Comece por aqui:
 
-🔭 &#160; Atualmente trabalho como <strong>Front-End</strong>. <br>
+🔭 &#160; Atualmente trabalho como <strong>FullStack</strong>. <br>
 🌱 &#160; Estou estudando mais sobre React native e desenvolvimento Móvel. <br>
 🎓 &#160; Graduando em Analise e desenvolvimento de Sistemas. <br>
 📨 &#160; <strong>Conecte-se comigo:</strong> mateus.rossinisilva@gmail.com <br>
